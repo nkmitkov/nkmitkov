@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nikolay Mitkov! 👋
+
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/nkmitkov/)
 
 <!--
 **nkmitkov/nkmitkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
